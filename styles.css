@@ -11,4 +11,6 @@
 .paragraph-spacing-special {
   margin-bottom: 0;
 }
-
+.save-spacing {
+  white-space: pre;
+}
